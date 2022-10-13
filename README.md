@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanjanasingh19
+- 👋 Hi, I’m Sanjana
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any Open Source Project
